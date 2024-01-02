@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "493422496532",
+    "firebase_url": "https://littlelemon-ace0a-default-rtdb.firebaseio.com",
+    "project_id": "littlelemon-ace0a",
+    "storage_bucket": "littlelemon-ace0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493422496532:android:39494cc901571617a9d001",
+        "android_client_info": {
+          "package_name": "com.littlelemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493422496532-ggjaqmda114dcf39aiug5v03ctdel1r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBroJZ1qpBcOA_7Nwpz7ERyloe0QCvowUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493422496532-ggjaqmda114dcf39aiug5v03ctdel1r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
